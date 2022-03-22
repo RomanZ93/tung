@@ -14,4 +14,8 @@ public class Movie {
     private String productName;
     private int productPrice;
     private int count;
+
+    public Movie(int i, String bladshot, String s, String actionMovie) {
+
+    }
 }
